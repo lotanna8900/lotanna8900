@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Lotanna
 
 I'm a **full-stack developer** and **interactive fiction game creator** passionate about building immersive, human-centered web experiences.  
-I love merging **storytelling and technology** — crafting both the worlds people explore and the platforms they live on.
+I love merging **storytelling and technology,** crafting both the worlds people explore and the platforms they live on.
 
 ---
 
@@ -30,8 +30,8 @@ I love merging **storytelling and technology** — crafting both the worlds peop
 
 ### 📫 Let’s Connect
 - 🌐 [Portfolio Website](https://full-stack-admin-dashboard-lotanna-three.vercel.app/)
-- 💼 [LinkedIn](https://x.com/lotannawhite?s=21)
-- 🐦 [Twitter](#)
+- 💼 [LinkedIn](#)
+- 🐦 [Twitter](https://x.com/lotannawhite?s=21)
 ---
 
 > The rose that grew from concrete. Proof that talent can bloom anywhere. 🌹
