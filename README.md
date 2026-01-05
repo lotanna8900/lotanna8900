@@ -22,7 +22,7 @@ I love merging **storytelling and technology,** crafting both the worlds people 
 ---
 
 ### 🧠 Currently
-- Refining my portfolio and exploring developer job opportunities  
+- Building high-performance Next.js platforms for clients and developing the 'Story-to-Chain' engine at Lota Labs.  
 - Expanding my work into interactive storytelling platforms  
 - Building scalable web tools that empower creators
 
