@@ -31,8 +31,8 @@ I operate at the intersection of **Autonomous Agents**, **Interactive Narrative 
 
 ### 📫 Let’s Connect
 
-* 🌐 [Portfolio Website](https://lotalabs.vercel.app/)
-* 💼 [LinkedIn](http://www.linkedin.com/in/lotanna-wisdom)
-* 🐦 [Twitter](https://x.com/lotannawhite?s=21)
+* 🌐 [Portfolio Website](https://lotalabs.com)
+* 💼 [LinkedIn](www.linkedin.com/in/lotanna-wisdom)
+* 🐦 [X](https://x.com/lotannawhite)
 
 > *"The rose that grew from concrete. Proof that talent can bloom anywhere."* 🌹
