@@ -15,9 +15,9 @@ I operate at the intersection of **Autonomous Agents**, **Interactive Narrative 
 
 | Project | Role | Description | Stack |
 | :--- | :--- | :--- | :--- |
-| **[Hive (YC S24)](https://github.com/adenhq/hive)** | **Core Contributor** | Architected the `EvolutionGuard` safety engine, a transactional rollback system preventing self-evolving AI agents from entering destructive states. | **Python** · **Asyncio** · **Graph Theory** |
-| **[Lota Labs](https://lotalabs.vercel.app/)** | **Founder & Architect** | A "Story-to-Chain" engine merging interactive fiction with blockchain state. Reverse-engineered the InkJS runtime for custom on-chain triggers. | **Next.js** · **TypeScript** · **Wagmi/Viem** |
-| **[SuccessDrivenAmaka](https://successdrivenamaka.com/)** | **Senior Engineer** | A high-performance revenue platform with a custom CMS and role-based access control (RBAC). | **Next.js** · **Supabase** · **Paystack** |
+| **Hive (YC S24)** | Core Contributor | Architected `hive diff`, a CLI developer experience (DX) tool for auditing offline AI agent evolution. Built a deep-graph comparison engine to visually track generational node and edge mutations. | Python · CLI Architecture · Rich UI |
+| **Lota Labs** | Founder & Architect | A "Story-to-Chain" engine merging interactive fiction with blockchain state. Reverse-engineered the InkJS runtime for custom on-chain triggers. | Next.js · TypeScript · Wagmi/Viem |
+| **SuccessDrivenAmaka** | Senior Engineer | A high-performance revenue platform with a custom CMS and role-based access control (RBAC). | Next.js · Supabase · Paystack |
 
 ---
 
