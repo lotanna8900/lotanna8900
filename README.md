@@ -5,7 +5,7 @@ I operate at the intersection of **Autonomous Agents**, **Interactive Narrative 
 
 ### 🧩 What I Do
 
-* 🤖 **AI Systems Architecture:** Core Contributor to **[adenhq/hive](https://github.com/adenhq/hive)**, architecting safety protocols (`EvolutionGuard`) for self-evolving agents.
+* 🤖 **AI Systems & DX Architecture:** Core Contributor to **[adenhq/hive](https://github.com/adenhq/hive)**, building CLI developer tooling (`hive diff`) to audit and visualize generational graph mutations in self-evolving agents.
 * ⚙️ **Engine Development:** Building **Lota Labs**, a custom node-based runtime that compiles interactive fiction into blockchain-reactive applications.
 * 🚀 **Full-Stack Product:** Shipping scalable, production-grade applications using **Next.js**, **TypeScript**, **Python**, and **Supabase**.
 
