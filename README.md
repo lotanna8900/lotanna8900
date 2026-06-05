@@ -25,7 +25,7 @@ I operate at the intersection of **Autonomous Agents**, **Interactive Narrative 
 
 * **Architecting** transactional safety layers for autonomous AI agents.
 * **Developing** the "Story-to-Chain" compiler at Lota Labs.
-* **Writing** complex branching narratives (290k+ words) for Choice of Games.
+* **Writing** complex branching narratives (190k+ words) for Hosted Games.
 
 ---
 
