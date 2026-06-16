@@ -15,7 +15,7 @@ I operate at the intersection of **Autonomous Agents**, **Interactive Narrative 
 
 | Project | Role | Description | Stack |
 | :--- | :--- | :--- | :--- |
-| **[Keeper's Vigil](https://store.steampowered.com/app/4641420/Keepers_Vigil/)** | Independent Developer | Engineered and shipped a profitable 290,000-word commercial interactive application across three global storefronts. Designed robust branching logic, tracking hundreds of parallel player states and complex conditional flags. | ChoiceScript · Platform APIs |
+| **[Keeper's Vigil](https://store.steampowered.com/app/4641420/Keepers_Vigil/)** | Independent Developer | Engineered and shipped a profitable 200,000-word commercial interactive application across three global storefronts. Designed robust branching logic, tracking hundreds of parallel player states and complex conditional flags. | ChoiceScript · Platform APIs |
 | **[Hive (YC S24)](https://github.com/lotanna8900/hive/tree/feat/cli-graph-diff)** | Core Contributor | Architected `hive diff`, a CLI developer experience (DX) tool for auditing offline AI agent evolution. Built a deep-graph comparison engine to visually track generational node and edge mutations. | Python · CLI Architecture |
 | **[Lota Labs](https://lotalabs.com)** | Founder & Architect | A "Story-to-Chain" engine merging interactive fiction with blockchain state. Reverse-engineered the InkJS runtime for custom on-chain triggers. | Next.js · TypeScript · Wagmi/Viem |
 | **[TM Vault](https://tm-vault-web.vercel.app/)** | Web3 Developer | Deployed custom Solidity contracts and optimized a high-frequency React dashboard for real-time DeFi yield strategies (APY/TVL). | Solidity · React · Viem |
