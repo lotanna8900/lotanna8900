@@ -3,10 +3,6 @@
 I am a **Senior Product Engineer** and **AI Systems Architect** focused on building complex, stateful systems.
 I operate at the intersection of **Autonomous Agents**, **Interactive Narrative Engines**, and **Full-Stack Architecture**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lotanna8900&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Lotanna's GitHub Stats" />
-</p>
-
 ### 🧩 What I Do
 
 * 🤖 **AI Systems & DX Architecture:** Core Contributor to **[adenhq/hive](https://github.com/adenhq/hive)**, building CLI developer tooling (`hive diff`) to audit and visualize generational graph mutations in self-evolving agents.
